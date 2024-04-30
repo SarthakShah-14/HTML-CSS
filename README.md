@@ -9,6 +9,7 @@ This is a simple HTML-CSS website focusing on food and nutrition. It includes in
 - **Nutrition Tips**: Learn about the nutritional content of different foods.
 - **Connect With Supplier**: Helps to connect with supplier.
 - **Contact Us**:This Page provides contact details of supplier.
+
 -  The website is designed to be responsive, ensuring optimal viewing experience across different devices.
 
 ## Technologies Used
