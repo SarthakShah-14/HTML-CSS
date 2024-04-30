@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content width="device-width" initial-scale="1.0">
+    <title>Food and Nutrition</title>
+    <style> 
+        /* Basic CSS styling */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        header {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 20px ;
+        }
+
+        nav {
+            background-color: #444;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+        }
+
+        nav a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+
+        p {
+            font-size: 16px;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Food and Nutrition</h1>
+    </header>
+    <nav>
+        <a href="css.html">Home</a>
+        <a href="p2.html">Food Waste Management</a>
+        <a href="p3.html">Nutrition Tips</a>
+        <a href="p4.html">Connect with supplier</a>
+        <a href="p5.html">Contact</a>
+        
+    </nav>
+   <div class="container">
+        <h2>Donate Food to Those in Need</h2>
+        <p>Your generosity can make a difference in someone's life. Please consider donating food to support those who are less fortunate.</p>
+
+        <form id="donation-form">
+            <label for="food-item">Food Item:</label>
+            <input type="text" id="food-item" name="food-item" required>
+            <br/>
+            <br/>
+
+
+            <label for="quantity">Quantity (in kg):</label>
+            <input type="number" id="quantity" name="quantity" required>
+            <br/>
+            <br>
+
+        
+
+            <label for="contact-info">Address:</label>
+            <textarea id="contact-info" name="contact-info" rows="2" required></textarea>
+            <br>
+            <br>
+
+            <label for="contact Number ">Contact Number:</label>
+            <input type="number" id="contact-Number" name="contact-Number" required>
+            <br>
+            <br>
+
+            <button type="submit">Submit Donation</button>
+        </form>
+    </div>
+</body>
+</html>
