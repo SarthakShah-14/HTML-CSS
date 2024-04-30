@@ -10,7 +10,6 @@ This is a simple HTML-CSS website focusing on food and nutrition. It includes in
 - **Connect With Supplier**: Helps to connect with supplier.
 - **Contact Us**:This Page provides contact details of supplier.
 
--  The website is designed to be responsive, ensuring optimal viewing experience across different devices.
 
 ## Technologies Used
 
@@ -19,3 +18,5 @@ This is a simple HTML-CSS website focusing on food and nutrition. It includes in
 
 # Viewing HTML-CSS Website
 1.Open css.html in your web browser to view the website locally.
+
+-  The website is designed to be responsive, ensuring optimal viewing experience across different devices.
