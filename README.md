@@ -1,7 +1,7 @@
 # HTML-CSS
 # Food and Nutrition Website
 
-This is a simple HTML-CSS website focusing on food and nutrition. It includes information about various foods, recipes, nutritional facts, and tips for maintaining a healthy diet.
+This is a simple HTML-CSS website focusing on food and nutrition. It includes information about various nutritional facts, and tips for maintaining a healthy diet,it also helps to connect the consumer with suppplier,it also helps in food donation.
 
 ## Features
 
